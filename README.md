@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Dreii!
 
-<!--
-**DreiiCoffee/DreiiCoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSIT Student** at **Batangas State University (BSU)**  
+💻 Aspiring **Full Stack Developer** | Passionate about building modern web apps and scalable solutions  
+🌱 Currently learning **MERN Stack**, **APIs**, and **Cloud Deployment**  
+⚡ Tech enthusiast who loves solving problems through code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🏫 Studying **Information Technology** at BSU  
+- 🌐 Interested in **web development**, **backend systems**, and **UI/UX**  
+- 🛠 Working on personal projects to sharpen my **full stack development** skills  
+- 📚 Exploring **open-source contributions** and continuous learning  
+
+---
+
+## 🧑‍💻 Tech Stack
+**Frontend:** React, HTML, CSS, JavaScript, TailwindCSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Currently Exploring:** Next.js, Docker, Firebase  
+
+---
+
+## 📈 GitHub Stats
+![Dreii's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreiiCoffee&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DreiiCoffee&layout=compact&theme=tokyonight)
+---
+
+## 📫 Connect with Me
+- 📧 Email: **andreifrancopersonal@gmail.com
+**  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/andrei-balolong-580048380/)  
+- 🌐 Portfolio (soon... 🚀)  
+
+---
+
+⭐️ *“Code, Learn, Build, Repeat.”*
