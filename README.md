@@ -4,7 +4,7 @@
 🎓 **BSIT Student** at **Batangas State University (BSU)**  
 💻 Aspiring **Full Stack Developer** | Passionate about building modern web apps and scalable solutions  
 🌱 Currently learning **Android Studio**, **APIs**, and **Cloud Deployment**  
-⚡ Tech enthusiast who loves solving problems through code  
+⚡ Gamer who wants to learn more about the IT world 
 
 
 ## 🥇 Badges:
