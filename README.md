@@ -19,8 +19,8 @@
 **Frontend:** React, HTML, CSS, JavaScript, TailwindCSS  
 **Backend:** Node.js, Express.js  
 **Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Postman  
-**Currently Exploring:** Next.js, Docker, Firebase  
+**Tools:** Git, GitHub, VS Code
+**Currently Exploring:** Next.js, Docker, Firebase,  
 
 ---
 
